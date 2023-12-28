@@ -1,0 +1,4 @@
+dette_id,amount,entreprise_id
+1,1000.50,1
+2,ThisIsNotANumber,2
+3,500.25,3

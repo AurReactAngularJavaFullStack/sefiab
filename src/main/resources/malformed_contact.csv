@@ -1,0 +1,4 @@
+contact_id,name,first_name,last_name,entreprise_id
+1,Contact 1,John,Doe
+2,Contact 2,Mary,Smith,2,ExtraColumn
+3,Contact 3,James,Brown,3
